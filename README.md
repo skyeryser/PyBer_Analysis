@@ -6,7 +6,7 @@ This analysis details how ride-sharing data differed by city type in 2019. The t
 ## Results
 The number of rides and drivers is highest in urban environments and lowest in rural cities. This scarcity of rides in less populated areas means that there were fewer drivers in rural towns than in suburban or urban settings. The average fare per ride in rural environments supersedes that of urban environments by approximately ten dollars USD. This data suggests that ride-sharing is widely utilized in urban and suburban environments but less common in rural communities, perhaps due to a lack of available rides and greater distances between destinations. On average, drivers in rural towns received higher compensation for their time spent driving, but this hardly makes up for the fact that rural drivers rarely got the opportunity to work.
 
-!['ride_summary.png'](https://github.com/skyeryser/PyBer_Analysis/blob/main/analysis/ride_summary.png)
+!['PyBer_ride_summary.png'](https://github.com/skyeryser/PyBer_Analysis/blob/main/analysis/PyBer_ride_summary.png)
 
 The total fare by city type depicted in the image below shows that ride-sharing is significantly less prevalent in rural and suburban communities. This unpopularity could be due to several factors, but the most likely culprits are higher fares and a lack of available drivers.
 
